@@ -19,12 +19,15 @@ Scanning/Reseaching through for new HarrY...
 # Action Project 1
 Influenced by Chinua Achebe on "What Nigeria Is To Me".
 
+# Action Project 2
+Influenced by Nelson Mandela's "Long Walk To Freedom".
+
 <br/><br/>
 ---------------Let's Take A Break---------------
 
 While I Scan/Reseach through for more new HarrY for building the next change.
 
-You can send money with <a href="http://worldremit.com">Worldremit</a> to my Nigerian UBA account no.: <a href="tel:2105098245">2105098245</a>
+You can send money with <a href="http://worldremit.com">Worldremit</a> to my Nigerian UBA account no.: <a href="https://2105098245">2105098245</a>
 
 Thanks in advance.
 
