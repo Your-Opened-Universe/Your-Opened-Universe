@@ -17,19 +17,23 @@ Scanning/Reseaching through for new HarrY...
 <i>#NextProject</i>
 
 # Action Project 1
-Influenced by Chinua Achebe on "What Nigeria Is To Me".
+Influenced by Chinua Achebe on "What Nigeria Is To Me". [High Piority]
 
 # Action Project 2
-Influenced by Nelson Mandela's "Long Walk To Freedom".
+Influenced by Nelson Mandela's "Long Walk To Freedom". [Medium Piority]
 
+# Action Project 3
+Influenced by Bottoms Up! of Ama Nuamah. [Low Piority]
+
+# Action Project 4
+Influenced by Do Not Fear The Past from Zuhura Seng’enge. [Outling Piority]
+
+# Solution
+If 10 is reversed, it becomes 01, and that's binary. Culturally to me, it means 0-Nuts and 1-Bots, 0-Bad and 1-Good, 0-Old and 1-Young.
+
+# My Believe
+We can create a NeW DiMeNSiON beyond the digital space. When we unite as ONe for YoU.
 <br/><br/>
----------------Let's Take A Break---------------
-
-While I Scan/Reseach through for more new HarrY for building the next change.
-
-You can send money with <a href="http://worldremit.com">Worldremit</a> to my Nigerian UBA account no.: <a href="https://2105098245">2105098245</a>
-
-Thanks in advance.
 
 Read my [blog](https://tobiadeoye.com.ng/the-3-spaces-without-1) for some insight
 
