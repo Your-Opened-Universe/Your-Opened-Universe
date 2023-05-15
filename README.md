@@ -16,6 +16,16 @@ Scanning/Reseaching through for new HarrY...
 
 <i>#NextProject</i>
 
+---------------Let's Take A Break---------------
+<br/><br/>
+I will be happy to receive your support towards this project in the tech space.
+<br/>
+You can send money with [Worldremit](https://www.worldremit.com) to my Nigerian UBA account no.: [2105098245](https://2105098245)
+<br/><br/>
+Thanks in advance.
+<br/><br/>
+---------------The Break Is Over---------------
+
 # Action Project 1
 Influenced by Chinua Achebe on "What Nigeria Is To Me". [High Piority]
 
