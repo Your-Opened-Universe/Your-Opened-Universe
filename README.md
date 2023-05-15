@@ -20,7 +20,7 @@ Scanning/Reseaching through for new HarrY...
 <br/><br/>
 I will be happy to receive your support towards this project in the tech space.
 <br/>
-You can send money with [Worldremit](https://www.worldremit.com) to my Nigerian UBA account no.: [2105098245](https://2105098245)
+You can send money with [Worldremit](https://www.worldremit.com) to my Nigerian UBA account no.: [2105098245](https://flutterwave.com/pay/your)
 <br/><br/>
 Thanks in advance.
 <br/><br/>
