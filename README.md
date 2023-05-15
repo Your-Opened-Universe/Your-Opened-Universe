@@ -1,4 +1,4 @@
-# YoU - Your Opened Universe. 
+# YouR - Your Opened Universe For Revolution 
 
 According to the SDG 10 (Sustainable Development Goal 10) aims to reduce inequality within and among countries, and its targets include reducing income inequalities, promoting the social, economic, and political inclusion of all, and ensuring equal opportunities and reducing discrimination.
 
