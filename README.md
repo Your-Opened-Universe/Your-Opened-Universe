@@ -27,16 +27,16 @@ Thanks in advance.
 ---------------The Break Is Over---------------
 
 # Action Project 1
-Influenced by Chinua Achebe on "What Nigeria Is To Me". [High Piority]
+Influenced by Chinua Achebe on "What Nigeria Is To Me". [High Piority] (Coming Soon!)
 
 # Action Project 2
-Influenced by Nelson Mandela's "Long Walk To Freedom". [Medium Piority]
+Influenced by Nelson Mandela's "Long Walk To Freedom". [Medium Piority] (Coming Soon!)
 
 # Action Project 3
-Influenced by Bottoms Up! of Ama Nuamah. [Low Piority]
+Influenced by Bottoms Up! of Ama Nuamah. [Low Piority] (Coming Soon!)
 
 # Action Project 4
-Influenced by Do Not Fear The Past from Zuhura Seng’enge. [Outling Piority]
+Influenced by Do Not Fear The Past from Zuhura Seng’enge. [Outling Piority] (Coming Soon!)
 
 # Solution
 If 10 is reversed, it becomes 01, and that's binary. Culturally to me, it means 0-Nuts and 1-Bots, 0-Bad and 1-Good, 0-Old and 1-Young.
