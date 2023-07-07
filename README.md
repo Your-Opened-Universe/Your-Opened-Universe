@@ -30,10 +30,10 @@ Thanks in advance.
 Influenced by Chinua Achebe on "What Nigeria Is To Me". [High Piority] (<a href="https://trexa.netlify.app">Trex</a>)
 
 # Action Project 2
-Influenced by Nelson Mandela's "Long Walk To Freedom". [Medium Piority] ( <a href="https://roadia.netlify.app">Roadia</a>)
+Influenced by Nelson Mandela's "Long Walk To Freedom". [Medium Piority] (<a href="https://roadia.netlify.app">Roadia</a>)
 
 # Action Project 3
-Influenced by Bottoms Up! of Ama Nuamah. [Low Piority] (<a href="https://itender.netlify.app">i-Tender</a> )
+Influenced by Bottoms Up! of Ama Nuamah. [Low Piority] (<a href="https://itender.netlify.app">i-Tender</a>)
 
 # Action Project 4
 Influenced by Do Not Fear The Past from Zuhura Seng’enge. [Outling Piority] (Coming Soon!)
