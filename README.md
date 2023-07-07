@@ -27,13 +27,13 @@ Thanks in advance.
 ---------------The Break Is Over---------------
 
 # Action Project 1
-Influenced by Chinua Achebe on "What Nigeria Is To Me". [High Piority] (Coming Soon!)
+Influenced by Chinua Achebe on "What Nigeria Is To Me". [High Piority] (<a href="https://trexa.netlify.app">Trex</a>)
 
 # Action Project 2
-Influenced by Nelson Mandela's "Long Walk To Freedom". [Medium Piority] (Coming Soon!)
+Influenced by Nelson Mandela's "Long Walk To Freedom". [Medium Piority] ( <a href="https://roadia.netlify.app">Roadia</a>)
 
 # Action Project 3
-Influenced by Bottoms Up! of Ama Nuamah. [Low Piority] (Coming Soon!)
+Influenced by Bottoms Up! of Ama Nuamah. [Low Piority] (<a href="https://itender.netlify.app">i-Tender</a> )
 
 # Action Project 4
 Influenced by Do Not Fear The Past from Zuhura Seng’enge. [Outling Piority] (Coming Soon!)
@@ -44,8 +44,6 @@ If 10 is reversed, it becomes 01, and that's binary. Culturally to me, it means 
 # My Believe
 We can create a NeW DiMeNSiON beyond the digital space. When we unite as ONe for YoU.
 <br/><br/>
-
-Read my [blog](https://tobiadeoye.com.ng/the-3-spaces-without-1) for some insight
 
 <a href="https://twitter.com/tobisure"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
