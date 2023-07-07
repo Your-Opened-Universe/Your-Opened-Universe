@@ -8,7 +8,7 @@ YoU have been created to see to means in eliminating inequality in Africa throug
 
 Scanning/Reseaching through for new HarrY... 
 
-<b>"Heritage on Aspiration for Refined Revolution with YoU"</b>
+<b>"Heritage on Aspiration for Refined Revolution with YouR"</b>
 
 <i>#ChangeAfrica</i>
 
